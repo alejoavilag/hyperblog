@@ -10,6 +10,7 @@ un blog increible para el [curso de git y git hub](https://platzi.com/cursos/git
 - Trucos muy locos con el profesor
 - Las personalidades multiples de freddy
 - Creado por Alejandro Avila @alejoavilag 
+- Disponible para todas las edades
 
 Y como amable recordatorio: **Este README.md es un chiste**.Diseñado para el ejemplo.Si llegas aca NO TE LO TOMES EN SERIO y [**mejor ve al curso.**](https://platzi.com/cursos/git-github/ "mejor ve al curso.")
 
